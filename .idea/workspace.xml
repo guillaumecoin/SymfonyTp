@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638883740955</updated>
-      <workItem from="1638883742013" duration="1061000" />
+      <workItem from="1638883742013" duration="1791000" />
     </task>
     <task id="LOCAL-00001" summary="controlleur + base">
       <created>1638884228081</created>
@@ -61,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638884520489</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="controlleur + base&#10;sass&#10;entity">
+      <created>1638884856367</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884856367</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,16 +79,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="controlleur + base" />
     <MESSAGE value="controlleur + base&#10;sass" />
-    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass" />
+    <MESSAGE value="controlleur + base&#10;sass&#10;entity" />
+    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass&#10;entity" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1065" y="104" key="CommitChangelistDialog2" timestamp="1638884519862">
+    <state x="1065" y="104" key="CommitChangelistDialog2" timestamp="1638884855736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884519862" />
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638884522737">
+    <state x="1065" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884855736" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638884858938">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884522737" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884858938" />
   </component>
 </project>
