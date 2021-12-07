@@ -26,9 +26,7 @@ class ClientController extends AbstractController
 
             'ContactName' => $ContactName,
             'contacts' => $this->contactRepository->findAll(),
-            'total' => $this->contactRepository->find($this->contactRepository->findAll()),
-
-
+            'contact' => $this->contactRepository->find($ContactName)
 
         ]);
     }

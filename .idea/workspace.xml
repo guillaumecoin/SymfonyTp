@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/ClientController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ClientController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Repository/ContactRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/ContactRepository.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -49,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638883740955</updated>
-      <workItem from="1638883742013" duration="8623000" />
+      <workItem from="1638883742013" duration="9323000" />
     </task>
     <task id="LOCAL-00001" summary="controlleur + base">
       <created>1638884228081</created>
@@ -93,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638887810000</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini&#10;Etat fini">
+      <created>1638892511962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1638892511962</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,20 +110,25 @@
     <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures" />
     <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client" />
     <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini" />
-    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini" />
+    <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini&#10;Etat fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini&#10;Etat fini" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1638890587622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638890587622" />
-    <state x="1065" y="71" key="CommitChangelistDialog2" timestamp="1638892175606">
+    <state x="1065" y="71" key="CommitChangelistDialog2" timestamp="1638892509413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638892175606" />
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638887812600">
+    <state x="1065" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638892509413" />
+    <state x="1220" y="281" key="FileChooserDialogImpl" timestamp="1638892699089">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638887812600" />
+    <state x="1220" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1638892699089" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638892513620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638892513620" />
   </component>
 </project>

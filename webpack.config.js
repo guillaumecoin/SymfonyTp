@@ -57,6 +57,10 @@ Encore
 
     // enables Sass/SCSS support
     //.enableSassLoader()
+    .enableSassLoader()
+    .addStyleEntry( 'contact' , "./assets/styles/contact.scss" )
+
+
 
     // uncomment if you use TypeScript
     //.enableTypeScriptLoader()
