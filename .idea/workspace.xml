@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="">
+    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/client/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/client/index.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ClientController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ClientController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/HomeController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Repository/ContactRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Repository/ContactRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home/index.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638883740955</updated>
-      <workItem from="1638883742013" duration="3934000" />
+      <workItem from="1638883742013" duration="8623000" />
     </task>
     <task id="LOCAL-00001" summary="controlleur + base">
       <created>1638884228081</created>
@@ -82,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638886966386</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini">
+      <created>1638887810000</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638887810000</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,20 +105,21 @@
     <MESSAGE value="controlleur + base&#10;sass&#10;entity" />
     <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures" />
     <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client" />
-    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client" />
+    <MESSAGE value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini" />
+    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base&#10;sass&#10;entity&#10;data fixtures&#10;affichage par client&#10;affichage client fini" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1638885670298">
+    <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1638890587622">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638885670298" />
-    <state x="1065" y="104" key="CommitChangelistDialog2" timestamp="1638886965755">
+    <state x="1170" y="278" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1638890587622" />
+    <state x="1065" y="71" key="CommitChangelistDialog2" timestamp="1638892175606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1065" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638886965755" />
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638886969460">
+    <state x="1065" y="71" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638892175606" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638887812600">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638886969460" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638887812600" />
   </component>
 </project>

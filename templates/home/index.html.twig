@@ -9,21 +9,31 @@
 </style>
 
 <div class="example-wrapper">
-    <h1>Hello {{ controller_name }}! ✅</h1>
+    <h1>Hello {{ controller_name }}!  ✅</h1>
+
+    {% if total > 1 %}
+    <h1>Vous avez  {{ total }} demandes de contact</h1>
+    {% endif %}
+
+    {% if total == 1 %}
+        <h1>Vous avez  {{ total }} demande de contact</h1>
+    {% endif %}
+
+    {% if total == 0 %}
+        aucune demande
+    {% endif %}
 
     {% if contacts is not empty %}
 
 
         {% for contact in contacts %}
             <li><a href="{{ path('client', {ContactName: contact.id}) }}">Demande de contact de {{ contact.name}} </a></li>
+
         {% endfor %}
 
     {% endif %}
 
-    This friendly message is coming from:
-    <ul>
-        <li>Your controller at <code><a href="{{ 'C:/Users/cguil/Documents/b2/symfony/SymfonyTp/src/Controller/HomeController.php'|file_link(0) }}">src/Controller/HomeController.php</a></code></li>
-        <li>Your template at <code><a href="{{ 'C:/Users/cguil/Documents/b2/symfony/SymfonyTp/templates/home/index.html.twig'|file_link(0) }}">templates/home/index.html.twig</a></code></li>
-    </ul>
+
+
 </div>
 {% endblock %}
