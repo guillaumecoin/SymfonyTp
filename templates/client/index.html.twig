@@ -9,14 +9,21 @@
 </style>
 
 <div class="example-wrapper">
-    <h1>Hello {{ ContactName }}! ✅</h1>
+    <h1>Hello {{ contact.name }}! ✅</h1>
 
 
     <h2> Monsieur ou Madame {{ contact.firstName}}  {{ contact.name}} veut vous contacter </h2>
     <br>
     <p> Son age est {{ contact.age}}  </p>
     <br>
-    <p> La newsletter a été {{ contact.newsletter}}</p>
+
+    {% if contact.newsletter == true %}
+        <p> La newsletter a été acceptée </p>
+    {% endif %}
+    {% if contact.newsletter == false %}
+        <p> La newsletter a été refusée </p>
+    {% endif %}
+
 
 
 
