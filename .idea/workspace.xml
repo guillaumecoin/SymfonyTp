@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="" />
+    <list default="true" id="4233d52b-c762-49a9-afb5-f322e352f21b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/styles/contact.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -34,11 +43,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638883740955</updated>
-      <workItem from="1638883742013" duration="353000" />
+      <workItem from="1638883742013" duration="682000" />
     </task>
+    <task id="LOCAL-00001" summary="controlleur + base">
+      <created>1638884228081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638884228081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="controlleur + base" />
+    <option name="LAST_COMMIT_MESSAGE" value="controlleur + base" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1065" y="104" key="CommitChangelistDialog2" timestamp="1638884227375">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1065" y="104" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884227375" />
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2" timestamp="1638884231649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="259" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1638884231649" />
   </component>
 </project>
